@@ -1,0 +1,2 @@
+# Interface
+Przykład interfejsu
